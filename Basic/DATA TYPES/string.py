@@ -22,10 +22,12 @@ print(b)
 
 #the outputs will be as follows (without the quotes)
 
-'''Hello World
+'''
+Hello World
 
 Hello
-World'''
+World
+'''
 
 
 #------------------------------------------------------------------------------
