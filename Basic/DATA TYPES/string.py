@@ -54,3 +54,4 @@ HI WORLD
 Hi
 HI WORLD
 """
+#doing anything else will return a syntax error
