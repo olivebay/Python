@@ -36,4 +36,4 @@ print(e)
 f = 3<5 #an True condition will show the value as True
 print(f)
 
-#this can be used also in if...elif...else
+#this will also be used in if...elif...else and loop statements
