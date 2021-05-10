@@ -1,1 +1,4 @@
+"""LETS TRY UNDERSTAND BOOLEANS WITH A FEW EXAMPLES"""
 
+a = True
+print(type(a))
