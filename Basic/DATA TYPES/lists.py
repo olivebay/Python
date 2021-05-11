@@ -6,3 +6,5 @@ Lists are one of 4 built-in data types in Python used to store collections of da
 
 list = ["a", "b", "c"]
 print(list)
+
+
