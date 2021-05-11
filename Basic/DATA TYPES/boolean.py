@@ -36,4 +36,12 @@ print(e)
 f = 3<5 #an True condition will show the value as True
 print(f)
 
-#this will also be used in if...elif...else and loop statements
+h = "a" in "raw"
+print(h) #the output will show value of h as True
+
+g = "9" in "raw"
+print(g) #the output will show value of g as False
+
+#we are gonna learn more about these little later
+
+#these can also be used in if...elif...else and loop statements
