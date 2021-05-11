@@ -14,3 +14,6 @@ a = b = c = "python"
 print(a,b,c)
 
 #we will get ans as : python python python
+
+
+#the values we are assigning would be learnt later on
