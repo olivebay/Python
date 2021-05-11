@@ -37,3 +37,5 @@ g = 'John'
 k = 4
 K = "Sally"
 #K will not overwrite k
+
+#the values we are assigning would be learnt later on
