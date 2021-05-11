@@ -1,6 +1,6 @@
 """Here we will learn bout basic stuff about variables"""
 
-
+#we learn about how to define a variable and assign a value to it
 
 #how to go about:
 
