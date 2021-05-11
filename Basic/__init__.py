@@ -4,3 +4,7 @@
 
 #how to go about :
 
+start_in_order = {
+  1:"Variables"
+  2:"Data Types"
+}
