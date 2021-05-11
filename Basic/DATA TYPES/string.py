@@ -57,3 +57,5 @@ Hi
 HI WORLD
 """
 #doing anything else will return a syntax error
+
+#we are also gonna learn to use special functions in strings later on
